@@ -1,4 +1,5 @@
 # Minimum Likelihood
-A blog about statistics and data analysis
+A blog about statistics, math, and data science.
+------------------------------------------------
 
-* By Rui Shu and James Brofos
+By [James Brofos](http://www.jamesbrofos.com) and [Rui Shu](http://www.ruishu.io)

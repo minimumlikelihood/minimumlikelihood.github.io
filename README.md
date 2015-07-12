@@ -1,4 +1,4 @@
-# minimumlikelihood.github.io
-Minimum Likelihood Statistics and Data Analysis Blog
+# Minimum Likelihood
+A blog about statistics and data analysis
 
-## By Rui Shu and James Brofos
+* By Rui Shu and James Brofos
